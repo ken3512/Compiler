@@ -7,7 +7,7 @@ The required elements were:
   3. A parser to parse the tokens
   4. A assembler to generate code
 
-The grades I got on the following four projects
+The grades I got on the following four projects where:
 
 vm.c : 85%
 lex.c : 95%
